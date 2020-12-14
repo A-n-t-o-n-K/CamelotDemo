@@ -1,0 +1,13 @@
+com\illinoislottery\pages\HomePage.class
+com\illinoislottery\pages\LogInPage.class
+com\illinoislottery\base\TestBase.class
+com\illinoislottery\pages\RegisterPage.class
+com\illinoislottery\pages\EditAccountDetailsPage.class
+com\illinoislottery\pages\PromotionsPage.class
+com\illinoislottery\util\TestUtil.class
+com\illinoislottery\util\WebEventListener.class
+com\illinoislottery\pages\CartPage.class
+com\illinoislottery\pages\LDLGamePage.class
+com\illinoislottery\extentReportListener\ExtentReportListener.class
+com\illinoislottery\pages\MainPage.class
+com\illinoislottery\pages\MegamillionsPage.class

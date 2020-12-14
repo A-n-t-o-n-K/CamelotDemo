@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Illinois Lottery website testing">
+
+    <listeners>
+        <listener class-name="com.illinoislottery.extentReportListener.ExtentReportListener"/>
+    </listeners>
+
+    <test name="Website test cases">
+        <classes>
+            <class name = "com.illinoislottery.testcases.MainPageTest"> </class>
+            <class name = "com.illinoislottery.testcases.LogInPageTest"> </class>
+            <class name = "com.illinoislottery.testcases.HomePageTest"> </class>
+            <class name = "com.illinoislottery.testcases.LDLGamePageTests"> </class>
+        </classes>
+    </test>
+</suite>
